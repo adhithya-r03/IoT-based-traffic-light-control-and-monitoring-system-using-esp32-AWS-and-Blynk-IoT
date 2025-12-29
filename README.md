@@ -1,7 +1,9 @@
 # IoT-based-traffic-light-control-and-monitoring-system-using-esp32-AWS-and-Blynk-IoT
 IoT based Traffic light control system using ESP32, AWS/Blynk Iot.
 
-There are three different variations to yhis project. the are :
+The traffic light control system basically controls the traffic light with a time interval of **10 seconds**(This can be changed). when traffic is detected in any of the four ultrasonic sensors, the current active signal turns yellow then red to turn the signal with traffic green (Active signal -> RED , Signal with Traffic -> GREEN). And also if the traffic is too long then automatically the the system goes around all the signal so that there will be no stuck traffic.
+
+There are three different variations to This project. they are :
 
 # AWS Integration :
 
