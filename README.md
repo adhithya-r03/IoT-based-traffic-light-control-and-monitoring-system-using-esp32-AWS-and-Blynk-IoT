@@ -13,7 +13,7 @@ https://youtu.be/sPVCXR9bWJQ
 
 As you can see in the code for AWS open both files(two tabs) in a Sketch in Arduino IDE and select ESP32 Developer kit to upload the code into esp32.
 
-<img width="937" height="513" alt="image" src="https://github.com/user-attachments/assets/8f013dd4-afb0-4b93-ac89-ec1a6a2a0641" />
+<img width="937" height="368" alt="image" src="https://github.com/user-attachments/assets/386333bf-46b4-4ecf-9edb-d365728dcd61" />
 
 paste the necessary details that are blanck in the code before uploading( certificates, Thing name, publish, subbscribe, wifi credentials, ect,.)
 
