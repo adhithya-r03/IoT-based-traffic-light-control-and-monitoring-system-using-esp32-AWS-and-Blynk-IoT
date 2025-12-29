@@ -17,6 +17,8 @@ As you can see in the code for AWS open both files(two tabs) in a Sketch in Ardu
 
 paste the necessary details that are blanck in the code before uploading( certificates, Thing name, publish, subbscribe, wifi credentials, ect,.)
 
+To store the data in AWS you have to create a database and add pipelines. refer youtube videos.
+
 # Blynk Iot:
 
 signals are send to Blynk IoT app which is available even in mobile phones(play store, app store).
